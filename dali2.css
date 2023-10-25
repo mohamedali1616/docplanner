@@ -1,0 +1,30 @@
+*{
+    font-family: 'Roboto',Arial, sans-serif;
+}
+
+#PAC{
+    width: 300px;
+}
+
+.barre{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav{
+    width: 242px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav a{
+    
+    color: #ababab;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#turkoise{
+    color: #00b39b;
+}
